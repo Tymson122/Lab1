@@ -6,4 +6,7 @@ cena_paliwa = float(input("Cena paliwa za litr: "))
 
 zuzycie = (droga / 100) * srednie_spalanie
 koszt = zuzycie * cena_paliwa
-print(f"Zużycie paliwa: {zuzycie}\nKoszt: {koszt}")
+
+print(f"Wylosowana droga: {droga} km")
+print(f"Zużycie paliwa: {zuzycie:.2f} l")
+print(f"Koszt podróży: {koszt:.2f} zł")
