@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Strona-1" id="T17YXDZKX5dTrjl5Lyon">
+    <mxGraphModel dx="810" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-3" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="START&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-5" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Wczytaj a, b" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-7" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oblicz suma = a + b" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-9" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oblicz różnica = a - b" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-11" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oblicz iloczyn = a * b" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-13" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-12" value="Nie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-17" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-16" value="Tak">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Czy b = 0?" vertex="1">
+          <mxGeometry height="80" width="114" x="357" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-15" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oblicz iloraz = a / b" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-24" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oblicz potęga&amp;nbsp;a ^ b" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-19" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wynik dzielenia = Błąd" vertex="1">
+          <mxGeometry height="60" width="140" x="540" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-23" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="wD5tCjVnoq-dwDAiB43_-20">
+          <mxGeometry relative="1" x="-0.0943" as="geometry">
+            <mxPoint x="610" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oblicz potęga =&amp;nbsp;a ^ b" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-26" edge="1" parent="1" source="wD5tCjVnoq-dwDAiB43_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="wD5tCjVnoq-dwDAiB43_-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Wypisz wynik: Suma, Różnica, Iloczyn, Iloraz, Potęga" vertex="1">
+          <mxGeometry height="130" width="230" x="430" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="wD5tCjVnoq-dwDAiB43_-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="STOP" vertex="1">
+          <mxGeometry height="50" width="95" x="497.5" y="1110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
